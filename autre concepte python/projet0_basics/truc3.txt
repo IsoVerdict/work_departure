@@ -1,0 +1,5 @@
+Python contient un certain nombre de modules intégrés, qui offrent de nombreuses fonctions mathématiques,
+statistiques, aléatoires et os tres utiles. Pour importer un module, il faut procéder comme-ci dessous :
+import module (importe tout le module)
+import module as md (donne un surnom au module)
+from module import fonction (importe une fonction du module).
